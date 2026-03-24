@@ -1,5 +1,5 @@
 %[text] %[text:anchor:T_946a] # Coupled Pendulum's Resonate
-%[text:tableOfContents]{"heading":"**Table of Contents**"}
+%[text:tableOfContents]{"heading":"Table of Contents"}
 %[text] %[text:anchor:H_28e9] ## 
 %[text] %[text:anchor:H_163e] ## 
 %[text] %[text:anchor:H_7ae6] ## 
@@ -29,7 +29,7 @@ a = g/r + k/m;
 b = -k/m;
 %[text] Sub Diagonal:
 c = -k/m;
-%[text] %[text:anchor:H_208a] ## Tridiagonal Toeplitz Matricies:
+%[text] %[text:anchor:H_208a] ## Tridiagonal Toeplitz Matrices:
 %[text]{"align":"center"} $\\left\[ \\begin{array}{ c } \n\na & b &           &   \\\\ \nc & a & b        &  \\\\\n   & c & \\ddots & \\ddots & \\\\\n   &    &\\ddots & \\ddots  & b\\\\\n   &    &           & c          & a\n\n\\end{array} \\right\]${"altText":"tri-diagonal Toeplitz Matrix"}
 %[text]{"align":"center"} $ a=\\frac{g}{r}+\\frac{k}{m} ,\\ b = -\\frac{k}{m} \\ \\& \\ c = -\\frac{k}{m}$
 %[text]{"align":"center"} 
